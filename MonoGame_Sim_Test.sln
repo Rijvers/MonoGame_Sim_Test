@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonoGame_Sim_Test", "MonoGame_Sim_Test\MonoGame_Sim_Test.csproj", "{5399A5E5-5614-4B93-9AB8-3BD41DAC1C25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4EA043BF-A921-44CF-828A-3DA59F5E8F9B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5399A5E5-5614-4B93-9AB8-3BD41DAC1C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5399A5E5-5614-4B93-9AB8-3BD41DAC1C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5399A5E5-5614-4B93-9AB8-3BD41DAC1C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5399A5E5-5614-4B93-9AB8-3BD41DAC1C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDDA99CE-FF64-4F53-A7BB-49E1086BBDAC}
+	EndGlobalSection
+EndGlobal
