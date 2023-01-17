@@ -55,6 +55,8 @@ namespace MonoGame_Sim_Test
             Tile_Controller.Load(Content, 1024);//128 //256; //512; //1024;
 
             font = Content.Load<SpriteFont>("Fonts/Gold Box 8x8 Monospaced");
+
+            character_Controller.Change_Main(1);
         }
 
         protected override void Update(GameTime gameTime)
