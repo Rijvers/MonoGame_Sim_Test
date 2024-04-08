@@ -1,4 +1,4 @@
-# MonoGame_Sim_Test
+# MonoGame_Sim
 Visual studio project
 
 Click op een poppetje, deze kan je nu bewegen met WASD of pijltjes.
