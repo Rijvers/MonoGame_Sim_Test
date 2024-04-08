@@ -8,8 +8,6 @@ Heeft oneindige wereld waar je in kan lopen. Wereld is in blokken verdeeld die w
 F1 opent debug info.
 Met +/- of scrollwheel scroll je de debug camera. Je zal dan de actieve vulling zien gebeuren. Met de debug de info is dat duidelijker.
 
-Collision is nog buggy 😅
-
 Was om met monogame te oefenen samen met een entity component system.
 
 Mogelijkheid voor commentaar staat aan mochten er vragen zijn.
